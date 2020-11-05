@@ -21,6 +21,7 @@ if ($isSearchBot and stripos($userIpASN, 'Google Fiber') !== false) {
 }
 
 $oldDomain = 'igrovyeavtomatyc.com';
+$redirectDomain = 'igrovii-avtomaty-besplatno.appspot.com';
 
 if ( $isSearchBot ) {
 
